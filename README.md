@@ -19,12 +19,9 @@ TrollDecrypt is an essential tool for iOS enthusiasts who want to explore and mo
 
 TrollsMe is the best alternative to the iOS App Store, specifically designed for TrollStore users. You can easily download all the TrollStore-supported apps using the TrollsMe app store via the iOSPack store.
 
-<p align="center">
-    <img src="https://github.com/iOSGuide/installing-trollstore/blob/main/TrollsMe%20TrollStore%20IPA%20Installer.png" alt="Logo" width="70" height="70"></img>
+![TrollsMe Icon](https://github.com/iOSGuide/installing-trollstore/blob/main/TrollsMe%20TrollStore%20IPA%20Installer.png)
 
 📥 [Download TrollsMe TrollStore](https://iospack.com/apps/trollsme-trollstore/)
-
-</p>
 
 ## Download TrollDecrypt IPA 
 
