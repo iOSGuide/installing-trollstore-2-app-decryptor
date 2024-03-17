@@ -2,6 +2,10 @@
 
 TrollDecrypt is an essential tool for iOS enthusiasts who want to explore and modify apps without the need for a jailbreak. In this comprehensive guide, we’ll delve into the details of TrollDecrypt, covering its purpose, installation, usage, and more. Let’s unlock the secrets of app decryption!
 
+<p align="center">
+    <img src="https://github.com/iOSGuide/installing-trollstore-2-app-decryptor/blob/main/Assets/TrollDecrypt%20IPA.png" alt="Logo" width="70" height="70"></img>
+</p>
+
 ## What Is TrollDecrypt?
 
 **Purpose:** TrollDecrypt is an evolution of TrollDecryptor, designed to bring a contemporary interface and user-friendly features to iOS app decryption.
