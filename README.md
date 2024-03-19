@@ -84,8 +84,6 @@ TrollDecrypt is built upon the prototype application TrollDecryptor for TrollSto
     <!-- Logo description text -->
     <div style="text-align: left;">
         <span style="font-size: 18px;">Reo - Modern music player<br>(iOS 13 – iOS 17)</span>
-        <br><br>
-        <a href="https://havoc.app/package/reo"><button>Install Reo Tweak</button></a>
     </div>
 </div>
 
