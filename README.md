@@ -75,3 +75,10 @@ Explore the power of TrollDecrypt and enhance your iOS experience! 🚀🔓
 Lars Fröder, also known as opa334, is the mastermind behind TrollStore, a jailed iOS app that ingeniously enables the permanent installation of IPAs (iOS app packages) with customized entitlements and root helpers. 
 
 TrollDecrypt is built upon the prototype application TrollDecryptor for TrollStore from wh1te4ever, and it stands out as an IPA decryption tool that significantly enhances the user experience. It also uses some work from bfdecrypt and dumpdecrypted.
+\
+<p align="center">
+    <img src="https://github.com/iOSGuide/installing-trollstore-2-app-decryptor/blob/main/Assets/TrollDecrypt%20IPA.png" alt="Logo" width="70" height="70"></img>
+    <span style="margin-left: 10px; font-size: 18px;">Reo - Modern music player (iOS 13 – iOS 17)</span>
+    <br>
+    <a href="https://havoc.app/package/reo"><button>Install Reo Tweak</button></a>
+</p>
